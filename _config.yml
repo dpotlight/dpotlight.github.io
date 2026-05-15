@@ -19,7 +19,7 @@ title: dpotlight.log # the main title
 tagline: AI Security · Digital Forensics # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Dohyeon Kim의 공부 기록. AI Security와 Digital Forensics를 중심으로 연구하면서 배운 내용을 정리합니다.
+  Here is my Logging place about CS Knowledge/AI/Digital Forensics. 
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -41,7 +41,6 @@ social:
     # The first element serves as the copyright owner's link
     - https://github.com/dpotlight
     - https://www.linkedin.com/in/dohyeon01/
-    - https://blog.naver.com/dpotlight
 
 # Site Verification Settings
 webmaster_verifications:
