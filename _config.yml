@@ -16,10 +16,10 @@ timezone: Asia/Seoul
 
 title: dpotlight.log # the main title
 
-tagline: 공부하면서 정리한 기록 # it will display as the subtitle
+tagline: AI Security · Digital Forensics # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  공부한 내용을 정리하는 블로그입니다.
+  Dohyeon Kim의 공부 기록. AI Security와 Digital Forensics를 중심으로 연구하면서 배운 내용을 정리합니다.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -34,14 +34,14 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: dpotlight
-  email: dpotlight@gmail.com # change to your email address
+  name: Dohyeon Kim
+  email: dpotlight2@dankook.ac.kr # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/dpotlight # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.linkedin.com/in/username
+    - https://github.com/dpotlight
+    - https://www.linkedin.com/in/dohyeon01/
+    - https://blog.naver.com/dpotlight
 
 # Site Verification Settings
 webmaster_verifications:
